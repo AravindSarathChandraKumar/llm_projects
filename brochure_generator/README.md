@@ -23,3 +23,4 @@ This notebook-based tool generates brochure-style content given a business name,
 
 ```bash
 📘 brochure_generator.ipynb   # Main notebook with prompt design and local LLM usage via Ollama
+📘 brochure_generator_with_gradio.ipynb  # Interactive version using Gradio for user-friendly UI
